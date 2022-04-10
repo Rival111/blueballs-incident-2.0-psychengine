@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Click.png">
+<SubTexture name="Click0000" x="0" y="0" width="75" height="34" frameX="-1" frameY="-2" frameWidth="80" frameHeight="40" />
+</TextureAtlas>

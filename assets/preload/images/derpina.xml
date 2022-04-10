@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="derpina.png">
+<SubTexture name="derpina0000" x="2017" y="1130" width="242" height="50" frameX="-321" frameY="-532" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0001" x="2017" y="1180" width="242" height="50" frameX="-321" frameY="-532" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0002" x="2017" y="1001" width="274" height="129" frameX="-304" frameY="-453" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0003" x="2017" y="765" width="283" height="236" frameX="-300" frameY="-346" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0004" x="2017" y="412" width="291" height="353" frameX="-300" frameY="-229" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0005" x="2017" y="0" width="326" height="412" frameX="-300" frameY="-170" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0006" x="1654" y="1136" width="326" height="485" frameX="-300" frameY="-97" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0007" x="1303" y="1136" width="351" height="540" frameX="-288" frameY="-42" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0008" x="0" y="1136" width="384" height="566" frameX="-269" frameY="-16" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0009" x="0" y="0" width="406" height="568" frameX="-261" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0010" x="406" y="0" width="431" height="568" frameX="-249" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0011" x="384" y="1136" width="471" height="565" frameX="-234" frameY="-17" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0012" x="855" y="1136" width="448" height="549" frameX="-223" frameY="-33" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0013" x="1427" y="568" width="529" height="567" frameX="-202" frameY="-15" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0014" x="837" y="0" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0015" x="0" y="568" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0016" x="837" y="0" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0017" x="590" y="568" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0018" x="1427" y="0" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0019" x="590" y="568" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="carro1.png">
+<SubTexture name="carro10000" x="988" y="323" width="1001" height="315" frameX="0" frameY="0" frameWidth="1001" frameHeight="315" />
+<SubTexture name="carro10001" x="0" y="0" width="988" height="323" frameX="0" frameY="0" frameWidth="988" frameHeight="323" />
+<SubTexture name="carro10002" x="988" y="0" width="1001" height="323" frameX="0" frameY="0" frameWidth="1001" frameHeight="323" />
+<SubTexture name="carro10003" x="0" y="323" width="988" height="323" frameX="0" frameY="0" frameWidth="988" frameHeight="323" />
+</TextureAtlas>

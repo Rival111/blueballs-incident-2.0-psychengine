@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MOM_BG_asset_pack_.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carro20000" x="0" y="0" width="4342" height="757"/>
+	<SubTexture name="carro20001" x="0" y="857" width="4342" height="757"/>
+	<SubTexture name="carro20002" x="0" y="1714" width="4342" height="757"/>
+	<SubTexture name="carro20003" x="0" y="2571" width="4342" height="757"/>
+</TextureAtlas>

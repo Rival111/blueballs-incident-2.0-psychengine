@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DERP.png">
+<SubTexture name="DERP0000" x="1975" y="1318" width="49" height="207" frameX="-880" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0001" x="2024" y="1318" width="91" height="207" frameX="-838" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0002" x="0" y="0" width="158" height="568" frameX="-771" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0003" x="158" y="0" width="221" height="568" frameX="-708" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0004" x="379" y="0" width="282" height="568" frameX="-647" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0005" x="661" y="0" width="330" height="568" frameX="-599" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0006" x="991" y="0" width="418" height="568" frameX="-511" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0007" x="0" y="568" width="474" height="568" frameX="-455" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0008" x="474" y="568" width="517" height="568" frameX="-412" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0009" x="1409" y="0" width="566" height="542" frameX="-363" frameY="-40" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0010" x="0" y="1136" width="607" height="537" frameX="-322" frameY="-45" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0011" x="607" y="1136" width="623" height="476" frameX="-306" frameY="-81" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0012" x="1230" y="1136" width="637" height="440" frameX="-292" frameY="-104" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0013" x="1975" y="0" width="643" height="440" frameX="-286" frameY="-97" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0014" x="647" y="1673" width="650" height="439" frameX="-279" frameY="-105" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0015" x="1975" y="0" width="643" height="440" frameX="-286" frameY="-97" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0016" x="1975" y="440" width="637" height="439" frameX="-292" frameY="-105" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0017" x="0" y="1673" width="647" height="440" frameX="-282" frameY="-97" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0018" x="1975" y="879" width="633" height="439" frameX="-296" frameY="-103" frameWidth="944" frameHeight="598" />
+</TextureAtlas>

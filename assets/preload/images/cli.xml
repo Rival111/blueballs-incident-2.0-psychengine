@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cli.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead0000" x="0" y="0" width="195" height="195"/>
+	<SubTexture name="dead0001" x="0" y="0" width="195" height="195"/>
+	<SubTexture name="dead0002" x="195" y="0" width="168" height="156" frameX="-13" frameY="-19" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0003" x="195" y="0" width="168" height="156" frameX="-13" frameY="-19" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0004" x="363" y="0" width="128" height="108" frameX="-33" frameY="-43" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0005" x="363" y="0" width="128" height="108" frameX="-33" frameY="-43" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0006" x="491" y="0" width="94" height="59" frameX="-50" frameY="-68" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0007" x="491" y="0" width="94" height="59" frameX="-50" frameY="-68" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0008" x="585" y="0" width="57" height="17" frameX="-69" frameY="-89" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0009" x="585" y="0" width="57" height="17" frameX="-69" frameY="-89" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0010" x="642" y="0" width="29" height="11" frameX="-83" frameY="-92" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="dead0011" x="642" y="0" width="29" height="11" frameX="-83" frameY="-92" frameWidth="195" frameHeight="195"/>
+	<SubTexture name="hit0000" x="671" y="0" width="245" height="214" frameX="-37" frameY="-48" frameWidth="338" frameHeight="278"/>
+	<SubTexture name="hit0001" x="671" y="0" width="245" height="214" frameX="-37" frameY="-48" frameWidth="338" frameHeight="278"/>
+	<SubTexture name="hit0002" x="916" y="0" width="292" height="258" frameX="-16" frameY="-17" frameWidth="338" frameHeight="278"/>
+	<SubTexture name="hit0003" x="916" y="0" width="292" height="258" frameX="-16" frameY="-17" frameWidth="338" frameHeight="278"/>
+	<SubTexture name="hit0004" x="1208" y="0" width="338" height="278"/>
+	<SubTexture name="idle0000" x="1546" y="0" width="195" height="195"/>
+	<SubTexture name="idle0001" x="1546" y="0" width="195" height="195"/>
+	<SubTexture name="idle0002" x="1741" y="0" width="195" height="195"/>
+	<SubTexture name="idle0003" x="1741" y="0" width="195" height="195"/>
+	<SubTexture name="idle0004" x="0" y="278" width="195" height="195"/>
+	<SubTexture name="idle0005" x="0" y="278" width="195" height="195"/>
+	<SubTexture name="idle0006" x="195" y="278" width="195" height="195"/>
+	<SubTexture name="idle0007" x="390" y="278" width="195" height="195"/>
+	<SubTexture name="idle0008" x="390" y="278" width="195" height="195"/>
+	<SubTexture name="idle0009" x="390" y="278" width="195" height="195"/>
+</TextureAtlas>
