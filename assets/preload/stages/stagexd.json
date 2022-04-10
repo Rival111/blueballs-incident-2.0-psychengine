@@ -1,0 +1,83 @@
+{
+	"girlfriend": [
+		441,
+		119
+	],
+	"boyfriend": [
+		1539,
+		159
+	],
+	"isPixelStage": false,
+	"opponent": [
+		-161,
+		128
+	],
+	"directory": "",
+	"defaultZoom": 1,
+	"layers": [
+		{
+			"onFront": false,
+			"image": "stageback",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "stageback",
+			"animation": "",
+			"offset": [
+				-1119,
+				-638
+			],
+			"scale": 1
+		},
+		{
+			"onFront": false,
+			"image": "stagefore",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "stagefore",
+			"animation": "",
+			"offset": [
+				-1114,
+				-636
+			],
+			"scale": 1
+		},
+		{
+			"onFront": false,
+			"image": "light_1",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "stagelight",
+			"animation": "",
+			"offset": [
+				-1130,
+				-639
+			],
+			"scale": 1
+		},
+		{
+			"onFront": false,
+			"image": "light_2",
+			"flipX": false,
+			"scrollfactor": [
+				1,
+				1
+			],
+			"name": "stagelight2",
+			"animation": "",
+			"offset": [
+				-1123,
+				-637
+			],
+			"scale": 1
+		}
+	]
+}
