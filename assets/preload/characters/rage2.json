@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-69
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "2TrollgeRageIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "2TrollgeRageLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-101
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "2TrollgeRageRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-96
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "2TrollgeRageDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "2TrollgeRageUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rage2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "troll2",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		115,
+		140
+	],
+	"camera_position": [
+		110,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

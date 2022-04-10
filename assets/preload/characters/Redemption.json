@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				-209
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IncidentSadSIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-209
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-209
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-209
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-209
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "IncidentSadSing",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/trollgephase4",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "troll1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

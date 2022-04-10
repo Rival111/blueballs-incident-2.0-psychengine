@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				-58
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				15
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-27
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-9
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "2BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				9
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "a2LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-59
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "a2DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				12
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "a2UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-26
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "a2RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-61,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-51,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-54,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-44,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend_crazy",
+	"position": [
+		60,
+		550
+	],
+	"healthicon": "bfc",
+	"flip_x": true,
+	"healthbar_colors": [
+		69,
+		116,
+		255
+	],
+	"camera_position": [
+		300,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

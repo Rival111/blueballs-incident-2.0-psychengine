@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-115,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-102,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Why",
+			"loop": false,
+			"name": "WHY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Derp1",
+	"position": [
+		210,
+		0
+	],
+	"healthicon": "troll6",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

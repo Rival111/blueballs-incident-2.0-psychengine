@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-57,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "3TrollgeRageIdle"
+		},
+		{
+			"offsets": [
+				-87,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "3TrollgeRageLeft"
+		},
+		{
+			"offsets": [
+				-95,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "3TrollgeRageRight"
+		},
+		{
+			"offsets": [
+				-67,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "3TrollgeRageDown"
+		},
+		{
+			"offsets": [
+				96,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "3TrollgeRageUp"
+		},
+		{
+			"offsets": [
+				-14,
+				146
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "Anims",
+			"indices": [],
+			"name": "SecondAnim"
+		},
+		{
+			"offsets": [
+				5,
+				142
+			],
+			"loop": true,
+			"fps": 1,
+			"anim": "Animt",
+			"indices": [],
+			"name": "ThirdAnim"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-13,
+				147
+			],
+			"anim": "Animf",
+			"fps": 1,
+			"name": "FirstAnim",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rage3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "troll2",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		115,
+		140
+	],
+	"camera_position": [
+		110,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
