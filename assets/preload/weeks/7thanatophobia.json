@@ -1,0 +1,35 @@
+{
+	"storyName": "fear of dying",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tanato",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"tanm",
+		""
+	],
+	"songs": [
+		[
+			"thanatophobia",
+			"gt",
+			[
+				175,
+				180,
+				100
+			]
+		],
+		[
+			"my-dear-love",
+			"gt",
+			[
+				175,
+				180,
+				100
+			]
+		]
+	],
+	"weekName": "tanato"
+}

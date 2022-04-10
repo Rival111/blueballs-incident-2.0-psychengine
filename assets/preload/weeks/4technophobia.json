@@ -1,0 +1,26 @@
+{
+	"storyName": "fear of futuristic technology",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tech",
+	"weekBefore": "week 5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"smilerm",
+		""
+	],
+	"songs": [
+		[
+			"technophobia",
+			"troll3",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tech"
+}

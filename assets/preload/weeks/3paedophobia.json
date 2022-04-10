@@ -1,0 +1,26 @@
+{
+	"storyName": "evil amoraltra",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "clown",
+	"weekBefore": "week 5",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"clownm2",
+		"clownm",
+		"clownm2"
+	],
+	"songs": [
+		[
+			"paedophobia",
+			"clown",
+			[
+				255,
+				40,
+				40
+			]
+		]
+	],
+	"weekName": "clown"
+}

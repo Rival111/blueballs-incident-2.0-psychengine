@@ -1,0 +1,26 @@
+{
+	"storyName": "tf",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "trall",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"trallm",
+		""
+	],
+	"songs": [
+		[
+			"your-mom",
+			"trall",
+			[
+				200,
+				200,
+				200
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

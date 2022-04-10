@@ -1,0 +1,26 @@
+{
+	"storyName": "fear of",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "atha",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"athazagoraphobia",
+			"legion",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tanato"
+}

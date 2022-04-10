@@ -1,0 +1,26 @@
+{
+	"storyName": "fear of flying",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "pter",
+	"weekBefore": "week 5",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"flym",
+		""
+	],
+	"songs": [
+		[
+			"pteromerhanophobia",
+			"troll5",
+			[
+				215,
+				215,
+				217
+			]
+		]
+	],
+	"weekName": "tf"
+}

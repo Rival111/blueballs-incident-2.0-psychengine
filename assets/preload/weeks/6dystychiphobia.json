@@ -1,0 +1,26 @@
+{
+	"storyName": "fear of accidents",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tfti",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"derpm",
+		""
+	],
+	"songs": [
+		[
+			"dystychiphobia",
+			"troll6",
+			[
+				95,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "dystychiphobia"
+}

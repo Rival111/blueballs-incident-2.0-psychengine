@@ -1,0 +1,26 @@
+{
+	"storyName": "fear of public speaking",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "gloss",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"pianom",
+		""
+	],
+	"songs": [
+		[
+			"glossophobia",
+			"troll4",
+			[
+				95,
+				100,
+				100
+			]
+		]
+	],
+	"weekName": "gloss"
+}

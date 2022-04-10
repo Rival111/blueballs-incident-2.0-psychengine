@@ -1,0 +1,26 @@
+{
+	"storyName": "daisuki",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "daisuki",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"daisuki",
+			"pgf",
+			[
+				255,
+				120,
+				160
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"postgfmenu",
+		""
+	],
+	"weekName": ""
+}

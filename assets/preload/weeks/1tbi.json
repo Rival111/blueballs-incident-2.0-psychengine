@@ -1,0 +1,53 @@
+{
+	"storyName": "tbi",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tbi",
+	"weekBefore": "week 5",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sadness",
+			"troll1",
+			[
+				215,
+				215,
+				217
+			]
+		],
+		[
+			"rage",
+			"troll2",
+			[
+				255,
+				135,
+				177
+			]
+		],
+		[
+			"incident",
+			"troll3",
+			[
+				175,
+				215,
+				177
+			]
+		],
+		[
+			"redemption",
+			"troll1",
+			[
+				175,
+				175,
+				177
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"sadm",
+		""
+	],
+	"weekName": "tbi"
+}
