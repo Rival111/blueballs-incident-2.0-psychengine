@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PianoM.png"><SubTexture name="IDLE0000" x="1215" y="0" width="529" height="733" frameX="-57" frameY="0" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0001" x="0" y="1466" width="534" height="724" frameX="-47" frameY="-8" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0002" x="1092" y="736" width="533" height="728" frameX="-44" frameY="-14" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0003" x="0" y="736" width="536" height="730" frameX="-40" frameY="-11" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0004" x="536" y="736" width="556" height="729" frameX="-22" frameY="-13" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0005" x="618" y="0" width="597" height="734" frameX="0" frameY="-20" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0006" x="1076" y="1466" width="622" height="718" frameX="-4" frameY="-23" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0007" x="0" y="0" width="618" height="736" frameX="-25" frameY="-25" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0008" x="534" y="1466" width="542" height="723" frameX="-50" frameY="-22" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0009" x="1744" y="0" width="535" height="727" frameX="-59" frameY="-9" frameWidth="643" frameHeight="761" />
+<SubTexture name="IDLE0010" x="1744" y="727" width="535" height="727" frameX="-59" frameY="-9" frameWidth="643" frameHeight="761" />
+</TextureAtlas>

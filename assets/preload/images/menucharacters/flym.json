@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "FirstIDLE",
+	"idle_anim": "FirstIDLE",
+	"position": [
+		390,
+		290
+	],
+	"scale": 0.5,
+	"image": "Flym"
+}

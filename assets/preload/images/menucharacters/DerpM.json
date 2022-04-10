@@ -1,0 +1,10 @@
+{
+	"idle_anim": "IDLE",
+	"confirm_anim": "WHY",
+	"position": [
+		-40,
+		122
+	],
+	"scale": 0.63,
+	"image": "derpm"
+}

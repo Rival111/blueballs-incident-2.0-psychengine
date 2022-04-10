@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "TrollfaceIdle",
+	"idle_anim": "TrollfaceIdle",
+	"position": [
+		0,
+		112
+	],
+	"scale": 0.65,
+	"image": "sadm"
+}

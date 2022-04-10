@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "TrallNotFront",
+	"idle_anim": "TrallNotFront",
+	"position": [
+		-20,
+		90
+	],
+	"scale": 0.7,
+	"image": "trallm"
+}

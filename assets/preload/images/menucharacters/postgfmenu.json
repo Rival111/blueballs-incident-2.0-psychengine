@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "gf_IDLE",
+	"idle_anim": "gf_IDLE",
+	"position": [
+		220,
+		175
+	],
+	"scale": 0.54,
+	"image": "postgfmenu"
+}

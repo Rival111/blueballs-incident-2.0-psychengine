@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FirstTrollge3.png"><SubTexture name="FirstIDLE0000" x="0" y="0" width="964" height="857" frameX="-69" frameY="-101" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0001" x="0" y="857" width="943" height="850" frameX="-78" frameY="-110" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0002" x="943" y="857" width="935" height="847" frameX="-76" frameY="-118" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0003" x="2035" y="0" width="915" height="843" frameX="-94" frameY="-126" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0004" x="2019" y="1707" width="924" height="829" frameX="-77" frameY="-133" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0005" x="0" y="1707" width="921" height="832" frameX="-84" frameY="-125" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0006" x="2950" y="0" width="1001" height="826" frameX="-68" frameY="-111" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0007" x="0" y="2539" width="1080" height="823" frameX="-24" frameY="-80" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0008" x="2917" y="2539" width="908" height="801" frameX="-115" frameY="-53" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0009" x="3951" y="0" width="775" height="801" frameX="-190" frameY="-23" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0010" x="2173" y="2539" width="744" height="806" frameX="-205" frameY="-7" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0011" x="2035" y="843" width="756" height="807" frameX="-170" frameY="0" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0012" x="2950" y="1641" width="833" height="814" frameX="-134" frameY="0" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0013" x="2950" y="826" width="960" height="815" frameX="-87" frameY="-6" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0014" x="1080" y="2539" width="1093" height="819" frameX="-1" frameY="-16" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0015" x="921" y="1707" width="1098" height="831" frameX="0" frameY="-44" frameWidth="1104" frameHeight="969" />
+<SubTexture name="FirstIDLE0016" x="964" y="0" width="1071" height="854" frameX="-13" frameY="-74" frameWidth="1104" frameHeight="969" />
+</TextureAtlas>

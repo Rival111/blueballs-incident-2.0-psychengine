@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="si.png"><SubTexture name="TrallNotFront0000" x="0" y="0" width="247" height="534" frameX="0" frameY="0" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0001" x="247" y="0" width="247" height="523" frameX="0" frameY="-11" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0002" x="741" y="0" width="247" height="513" frameX="0" frameY="-21" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0003" x="0" y="534" width="247" height="506" frameX="0" frameY="-28" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0004" x="247" y="534" width="247" height="499" frameX="0" frameY="-35" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0005" x="0" y="534" width="247" height="506" frameX="0" frameY="-28" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0006" x="988" y="0" width="247" height="513" frameX="0" frameY="-21" frameWidth="247" frameHeight="534" />
+<SubTexture name="TrallNotFront0007" x="494" y="0" width="247" height="523" frameX="0" frameY="-11" frameWidth="247" frameHeight="534" />
+</TextureAtlas>

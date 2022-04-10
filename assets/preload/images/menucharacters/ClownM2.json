@@ -1,0 +1,10 @@
+{
+	"idle_anim": "ClownC",
+	"confirm_anim": "ClownC",
+	"position": [
+		340,
+		320
+	],
+	"scale": 0.35,
+	"image": "ClownM2"
+}

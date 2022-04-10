@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SadSheet_s.png"><SubTexture name="TrollfaceDown0000" x="284" y="594" width="276" height="547" frameX="-9" frameY="-6" frameWidth="290" frameHeight="553" />
+<SubTexture name="TrollfaceDown0001" x="0" y="594" width="284" height="549" frameX="-6" frameY="-4" frameWidth="290" frameHeight="553" />
+<SubTexture name="TrollfaceDown0002" x="560" y="594" width="288" height="545" frameX="0" frameY="-8" frameWidth="290" frameHeight="553" />
+<SubTexture name="TrollfaceIdle0000" x="981" y="0" width="263" height="576" frameX="0" frameY="-21" frameWidth="263" frameHeight="597" />
+<SubTexture name="TrollfaceIdle0001" x="725" y="0" width="256" height="583" frameX="-2" frameY="-14" frameWidth="263" frameHeight="597" />
+<SubTexture name="TrollfaceIdle0002" x="475" y="0" width="250" height="584" frameX="-4" frameY="-13" frameWidth="263" frameHeight="597" />
+<SubTexture name="TrollfaceIdle0003" x="234" y="0" width="241" height="589" frameX="-10" frameY="-8" frameWidth="263" frameHeight="597" />
+<SubTexture name="TrollfaceIdle0004" x="0" y="0" width="234" height="594" frameX="-16" frameY="-3" frameWidth="263" frameHeight="597" />
+</TextureAtlas>
