@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Smiler_shading.png"><SubTexture name="Smiler_shading DOWN0000" x="0" y="0" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading DOWN0001" x="2564" y="0" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading DOWN0002" x="5128" y="0" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading DOWN0003" x="7692" y="0" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading DOWN0004" x="0" y="1444" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading DOWN0005" x="2564" y="1444" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading IDLE0000" x="5128" y="1444" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading IDLE0001" x="7692" y="1444" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading IDLE0002" x="0" y="2888" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading IDLE0003" x="2564" y="2888" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading IDLE0004" x="5128" y="2888" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading IDLE0005" x="7692" y="2888" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading LEFT0000" x="0" y="4332" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading LEFT0001" x="2564" y="4332" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading LEFT0002" x="5128" y="4332" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading LEFT0003" x="7692" y="4332" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading LEFT0004" x="0" y="5776" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading LEFT0005" x="2564" y="5776" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading RIGHT0000" x="5128" y="5776" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading RIGHT0001" x="7692" y="5776" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading RIGHT0002" x="0" y="7220" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading RIGHT0003" x="2564" y="7220" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading RIGHT0004" x="5128" y="7220" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading RIGHT0005" x="7692" y="7220" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading UP0000" x="0" y="8664" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading UP0001" x="2564" y="8664" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading UP0002" x="5128" y="8664" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading UP0003" x="7692" y="8664" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading UP0004" x="0" y="10108" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+<SubTexture name="Smiler_shading UP0005" x="2564" y="10108" width="2564" height="1444" frameX="0" frameY="0" frameWidth="2564" frameHeight="1444" />
+</TextureAtlas>

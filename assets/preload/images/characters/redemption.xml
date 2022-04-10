@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redemption.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1FRAME0000" x="100" y="100" width="496" height="595"/>
+	<SubTexture name="2END0000" x="696" y="100" width="496" height="595"/>
+	<SubTexture name="2FRAME0000" x="1292" y="100" width="496" height="595"/>
+	<SubTexture name="3END0000" x="1888" y="100" width="496" height="595"/>
+	<SubTexture name="RedFinalIDLE0000" x="2484" y="100" width="496" height="595"/>
+	<SubTexture name="RedFinalIDLE0001" x="3080" y="100" width="496" height="595"/>
+	<SubTexture name="RedFinalIDLE0002" x="100" y="795" width="496" height="595"/>
+	<SubTexture name="RedFinalIDLE0003" x="696" y="795" width="496" height="595"/>
+	<SubTexture name="RedFinalIDLE0004" x="1292" y="795" width="496" height="595"/>
+	<SubTexture name="RedFinalSING0000" x="1888" y="795" width="499" height="595"/>
+	<SubTexture name="RedFinalSING0001" x="2487" y="795" width="499" height="595"/>
+	<SubTexture name="RedFinalSING0002" x="3086" y="795" width="499" height="595"/>
+	<SubTexture name="RedFinalSMILE0000" x="100" y="1490" width="496" height="595"/>
+	<SubTexture name="RedIDLE0000" x="696" y="1490" width="304" height="706"/>
+	<SubTexture name="RedIDLE0001" x="1100" y="1490" width="304" height="706"/>
+	<SubTexture name="RedIDLE0002" x="1504" y="1490" width="304" height="706"/>
+	<SubTexture name="RedIDLE0003" x="1908" y="1490" width="304" height="706"/>
+	<SubTexture name="RedSING0000" x="2312" y="1490" width="505" height="707"/>
+	<SubTexture name="RedSING0001" x="2917" y="1490" width="505" height="707"/>
+	<SubTexture name="RedSING0002" x="100" y="2297" width="505" height="707"/>
+	<SubTexture name="RedSING0003" x="705" y="2297" width="505" height="707"/>
+	<SubTexture name="end0000" x="1310" y="2297" width="496" height="595"/>
+	<SubTexture name="end0001" x="1906" y="2297" width="496" height="595"/>
+	<SubTexture name="end0002" x="2502" y="2297" width="496" height="595"/>
+	<SubTexture name="end0003" x="3098" y="2297" width="496" height="595"/>
+	<SubTexture name="end0004" x="100" y="3104" width="496" height="595"/>
+	<SubTexture name="end0005" x="696" y="3104" width="496" height="595"/>
+</TextureAtlas>
