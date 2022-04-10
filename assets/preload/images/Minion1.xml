@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Minion1.png"><SubTexture name="MinionAttack0000" x="827" y="868" width="423" height="397" frameX="-43" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0001" x="0" y="0" width="465" height="434" frameX="-1" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0002" x="465" y="0" width="465" height="434" frameX="-1" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0003" x="1303" y="397" width="465" height="391" frameX="-1" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0004" x="1303" y="0" width="465" height="397" frameX="-1" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0005" x="2139" y="714" width="393" height="346" frameX="-1" frameY="-49" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0006" x="2139" y="363" width="332" height="351" frameX="-61" frameY="-31" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0007" x="1768" y="748" width="312" height="371" frameX="-89" frameY="-10" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0008" x="0" y="434" width="391" height="434" frameX="-21" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0009" x="930" y="434" width="227" height="380" frameX="-200" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0010" x="0" y="1292" width="226" height="380" frameX="-201" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0011" x="226" y="1292" width="420" height="380" frameX="-12" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0012" x="646" y="1292" width="226" height="380" frameX="-201" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0013" x="872" y="1292" width="226" height="380" frameX="-201" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0014" x="1098" y="1292" width="302" height="380" frameX="-132" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0015" x="0" y="868" width="382" height="424" frameX="-84" frameY="-10" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionAttack0016" x="391" y="434" width="423" height="434" frameX="-21" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0000" x="1768" y="0" width="371" height="374" frameX="-73" frameY="-26" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0001" x="1207" y="1672" width="371" height="368" frameX="-73" frameY="-32" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0002" x="1768" y="1119" width="371" height="371" frameX="-73" frameY="-29" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0003" x="0" y="1672" width="371" height="371" frameX="-73" frameY="-29" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0004" x="836" y="1672" width="371" height="369" frameX="-73" frameY="-31" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0005" x="1768" y="374" width="371" height="374" frameX="-73" frameY="-26" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0006" x="930" y="0" width="373" height="434" frameX="-73" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0007" x="382" y="868" width="445" height="420" frameX="-21" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0008" x="1303" y="788" width="465" height="391" frameX="-1" frameY="-29" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionIdle0000" x="0" y="2043" width="465" height="360" frameX="-1" frameY="-60" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionIdle0001" x="1578" y="1672" width="465" height="364" frameX="-1" frameY="-56" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionIdle0002" x="371" y="1672" width="465" height="370" frameX="-1" frameY="-50" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionIdle0003" x="2139" y="0" width="402" height="363" frameX="-1" frameY="-57" frameWidth="467" frameHeight="435" />
+</TextureAtlas>
