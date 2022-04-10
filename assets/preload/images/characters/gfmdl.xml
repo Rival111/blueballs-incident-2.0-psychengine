@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Girl3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="739" height="769"/>
+	<SubTexture name="Down0001" x="789" y="0" width="739" height="769"/>
+	<SubTexture name="Down0002" x="1578" y="0" width="739" height="769"/>
+	<SubTexture name="Down0003" x="2367" y="0" width="739" height="769"/>
+	<SubTexture name="Down0004" x="3156" y="0" width="739" height="769"/>
+	<SubTexture name="IDLE0000" x="3945" y="0" width="751" height="764"/>
+	<SubTexture name="IDLE0001" x="4746" y="0" width="751" height="764"/>
+	<SubTexture name="IDLE0002" x="5547" y="0" width="751" height="764"/>
+	<SubTexture name="IDLE0003" x="6348" y="0" width="751" height="764"/>
+	<SubTexture name="IDLE0004" x="7149" y="0" width="751" height="764"/>
+	<SubTexture name="IDLE0005" x="0" y="819" width="751" height="764"/>
+	<SubTexture name="IDLE0006" x="801" y="819" width="751" height="764"/>
+	<SubTexture name="IDLE0007" x="1602" y="819" width="751" height="764"/>
+	<SubTexture name="IDLE0008" x="2403" y="819" width="751" height="764"/>
+	<SubTexture name="IDLE0009" x="3204" y="819" width="751" height="764"/>
+	<SubTexture name="Left0000" x="4005" y="819" width="740" height="754"/>
+	<SubTexture name="Left0001" x="4795" y="819" width="740" height="754"/>
+	<SubTexture name="Left0002" x="5585" y="819" width="740" height="754"/>
+	<SubTexture name="Left0003" x="6375" y="819" width="740" height="754"/>
+	<SubTexture name="Left0004" x="7165" y="819" width="740" height="754"/>
+	<SubTexture name="Right0000" x="0" y="1633" width="725" height="757"/>
+	<SubTexture name="Right0001" x="775" y="1633" width="725" height="757"/>
+	<SubTexture name="Right0002" x="1550" y="1633" width="725" height="757"/>
+	<SubTexture name="Right0003" x="2325" y="1633" width="725" height="757"/>
+	<SubTexture name="Right0004" x="3100" y="1633" width="725" height="757"/>
+	<SubTexture name="SMILE0000" x="3875" y="1633" width="737" height="754"/>
+	<SubTexture name="SMILE0001" x="4662" y="1633" width="737" height="754"/>
+	<SubTexture name="SMILE0002" x="5449" y="1633" width="737" height="754"/>
+	<SubTexture name="SMILE0003" x="6236" y="1633" width="737" height="754"/>
+	<SubTexture name="SMILE0004" x="7023" y="1633" width="737" height="754"/>
+	<SubTexture name="SMILE0005" x="0" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0006" x="787" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0007" x="1574" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0008" x="2361" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0009" x="3148" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0010" x="3935" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0011" x="4722" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0012" x="5509" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0013" x="6296" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0014" x="7083" y="2440" width="737" height="754"/>
+	<SubTexture name="SMILE0015" x="0" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0016" x="787" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0017" x="1574" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0018" x="2361" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0019" x="3148" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0020" x="3935" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0021" x="4722" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0022" x="5509" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0023" x="6296" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0024" x="7083" y="3244" width="737" height="754"/>
+	<SubTexture name="SMILE0025" x="0" y="4048" width="737" height="754"/>
+	<SubTexture name="SMILE0026" x="787" y="4048" width="737" height="754"/>
+	<SubTexture name="SMILE0027" x="1574" y="4048" width="737" height="754"/>
+	<SubTexture name="SMILE0028" x="2361" y="4048" width="737" height="754"/>
+	<SubTexture name="SMILE0029" x="3148" y="4048" width="737" height="754"/>
+	<SubTexture name="SMILE0030" x="3935" y="4048" width="737" height="754"/>
+	<SubTexture name="Up0000" x="4722" y="4048" width="739" height="769"/>
+	<SubTexture name="Up0001" x="5511" y="4048" width="739" height="769"/>
+	<SubTexture name="Up0002" x="6300" y="4048" width="739" height="769"/>
+	<SubTexture name="Up0003" x="7089" y="4048" width="739" height="769"/>
+	<SubTexture name="Up0004" x="0" y="4867" width="739" height="769"/>
+	<SubTexture name="WHITE0000" x="789" y="4867" width="737" height="754"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CLOWN.png"><SubTexture name="CLOWN DOWN0000" x="5020" y="3505" width="666" height="864" frameX="-2" frameY="-2" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0001" x="2293" y="4595" width="645" height="850" frameX="-5" frameY="-16" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0002" x="1899" y="5470" width="570" height="819" frameX="-72" frameY="-47" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0003" x="2469" y="5470" width="559" height="816" frameX="-83" frameY="-50" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0004" x="5812" y="0" width="557" height="840" frameX="-85" frameY="-26" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0005" x="4380" y="3603" width="556" height="843" frameX="-86" frameY="-23" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN DOWN0006" x="4822" y="4595" width="556" height="842" frameX="-86" frameY="-24" frameWidth="670" frameHeight="868" />
+<SubTexture name="CLOWN FRONT0000" x="2148" y="2474" width="602" height="999" frameX="-2" frameY="-2" frameWidth="606" frameHeight="1003" />
+<SubTexture name="CLOWN FRONT0001" x="4418" y="994" width="602" height="993" frameX="-2" frameY="-1" frameWidth="606" frameHeight="996" />
+<SubTexture name="CLOWN FRONT0002" x="2750" y="2474" width="602" height="999" frameX="-2" frameY="-4" frameWidth="606" frameHeight="1005" />
+<SubTexture name="CLOWN FRONT0003" x="3504" y="1130" width="602" height="1001" frameX="-2" frameY="-2" frameWidth="606" frameHeight="1005" />
+<SubTexture name="CLOWN FRONT0004" x="4418" y="1987" width="602" height="993" frameX="-2" frameY="-10" frameWidth="606" frameHeight="1005" />
+<SubTexture name="CLOWN FRONT0005" x="0" y="3603" width="602" height="992" frameX="-2" frameY="-4" frameWidth="606" frameHeight="998" />
+<SubTexture name="CLOWN IDLE0000" x="2916" y="3603" width="811" height="915" frameX="-12" frameY="-8" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0001" x="5020" y="0" width="792" height="880" frameX="-6" frameY="-45" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0002" x="5020" y="880" width="787" height="880" frameX="-2" frameY="-45" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0003" x="2116" y="3603" width="800" height="919" frameX="-32" frameY="-6" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0004" x="3727" y="3603" width="653" height="911" frameX="-184" frameY="-15" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0005" x="5020" y="2637" width="661" height="868" frameX="-143" frameY="-48" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0006" x="2938" y="4595" width="642" height="844" frameX="-141" frameY="-87" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0007" x="0" y="5470" width="612" height="834" frameX="-165" frameY="-98" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0008" x="5020" y="1760" width="612" height="877" frameX="-169" frameY="-45" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0009" x="602" y="3603" width="676" height="944" frameX="-150" frameY="-2" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN IDLE0010" x="1278" y="3603" width="838" height="943" frameX="-45" frameY="-8" frameWidth="885" frameHeight="953" />
+<SubTexture name="CLOWN LEFT0000" x="0" y="2474" width="960" height="1129" frameX="-2" frameY="-19" frameWidth="1070" frameHeight="1150" />
+<SubTexture name="CLOWN LEFT0001" x="1042" y="1309" width="978" height="1146" frameX="-24" frameY="-2" frameWidth="1070" frameHeight="1150" />
+<SubTexture name="CLOWN LEFT0002" x="2020" y="1309" width="1005" height="1138" frameX="-63" frameY="-10" frameWidth="1070" frameHeight="1150" />
+<SubTexture name="CLOWN LEFT0003" x="3504" y="0" width="914" height="1130" frameX="-30" frameY="-18" frameWidth="1070" frameHeight="1150" />
+<SubTexture name="CLOWN RIGHT0000" x="0" y="4595" width="1143" height="875" frameX="-2" frameY="-2" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN RIGHT0001" x="1143" y="4595" width="1150" height="863" frameX="-68" frameY="-14" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN RIGHT0002" x="3580" y="4595" width="1242" height="844" frameX="-32" frameY="-33" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN RIGHT0003" x="612" y="5470" width="1287" height="821" frameX="-9" frameY="-56" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN RIGHT0004" x="3028" y="5470" width="1287" height="808" frameX="-8" frameY="-69" frameWidth="1298" frameHeight="879" />
+<SubTexture name="CLOWN START0000" x="3352" y="2474" width="603" height="999" frameX="-2" frameY="-3" frameWidth="608" frameHeight="1004" />
+<SubTexture name="CLOWN START0001" x="4418" y="0" width="602" height="994" frameX="-2" frameY="-8" frameWidth="608" frameHeight="1004" />
+<SubTexture name="CLOWN UP0000" x="960" y="2474" width="1188" height="1097" frameX="-2" frameY="-214" frameWidth="1192" frameHeight="1313" />
+<SubTexture name="CLOWN UP0001" x="0" y="1309" width="1042" height="1165" frameX="-4" frameY="-146" frameWidth="1192" frameHeight="1313" />
+<SubTexture name="CLOWN UP0002" x="2499" y="0" width="1005" height="1278" frameX="-23" frameY="-33" frameWidth="1192" frameHeight="1313" />
+<SubTexture name="CLOWN UP0003" x="0" y="0" width="908" height="1309" frameX="-119" frameY="-2" frameWidth="1192" frameHeight="1313" />
+<SubTexture name="CLOWN UP0004" x="908" y="0" width="820" height="1305" frameX="-187" frameY="-6" frameWidth="1192" frameHeight="1313" />
+<SubTexture name="CLOWN UP0005" x="1728" y="0" width="771" height="1283" frameX="-227" frameY="-28" frameWidth="1192" frameHeight="1313" />
+</TextureAtlas>

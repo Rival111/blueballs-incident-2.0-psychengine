@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Derp4.png"><SubTexture name="DOWN0000" x="1592" y="5712" width="1649" height="1581" frameX="-488" frameY="-2" frameWidth="2197" frameHeight="1585" />
+<SubTexture name="DOWN0001" x="3241" y="5712" width="1741" height="1498" frameX="-417" frameY="-85" frameWidth="2197" frameHeight="1585" />
+<SubTexture name="DOWN0002" x="4982" y="5712" width="1990" height="1474" frameX="-178" frameY="-109" frameWidth="2197" frameHeight="1585" />
+<SubTexture name="DOWN0003" x="7441" y="0" width="2058" height="1381" frameX="-110" frameY="-200" frameWidth="2197" frameHeight="1585" />
+<SubTexture name="IDLE0000" x="4683" y="3991" width="1343" height="1707" frameX="-71" frameY="-16" frameWidth="1433" frameHeight="1725" />
+<SubTexture name="IDLE0001" x="6085" y="0" width="1356" height="1706" frameX="-57" frameY="-17" frameWidth="1433" frameHeight="1725" />
+<SubTexture name="IDLE0002" x="0" y="3991" width="1429" height="1721" frameX="-2" frameY="-2" frameWidth="1433" frameHeight="1725" />
+<SubTexture name="LEFT0000" x="2977" y="3991" width="1706" height="1709" frameX="-215" frameY="-235" frameWidth="1923" frameHeight="1967" />
+<SubTexture name="LEFT0001" x="0" y="5712" width="1592" height="1699" frameX="-144" frameY="-265" frameWidth="1923" frameHeight="1967" />
+<SubTexture name="LEFT0002" x="1429" y="3991" width="1548" height="1721" frameX="-67" frameY="-243" frameWidth="1923" frameHeight="1967" />
+<SubTexture name="RIGHT0000" x="1748" y="0" width="1862" height="2048" frameX="-187" frameY="-458" frameWidth="2471" frameHeight="2508" />
+<SubTexture name="RIGHT0001" x="0" y="0" width="1748" height="2218" frameX="-400" frameY="-288" frameWidth="2471" frameHeight="2508" />
+<SubTexture name="UP0000" x="2569" y="2218" width="2458" height="1749" frameX="-57" frameY="-618" frameWidth="2587" frameHeight="2370" />
+<SubTexture name="UP0001" x="0" y="2218" width="2569" height="1773" frameX="-2" frameY="-594" frameWidth="2587" frameHeight="2370" />
+<SubTexture name="UP0002" x="3610" y="0" width="2475" height="1896" frameX="-110" frameY="-471" frameWidth="2587" frameHeight="2370" />
+</TextureAtlas>

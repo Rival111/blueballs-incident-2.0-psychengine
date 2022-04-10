@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Derp1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLE0000" x="0" y="0" width="216" height="601"/>
+	<SubTexture name="IDLE0001" x="316" y="0" width="216" height="601"/>
+	<SubTexture name="IDLE0002" x="632" y="0" width="216" height="601"/>
+	<SubTexture name="WHY0000" x="948" y="0" width="210" height="607"/>
+	<SubTexture name="WHY0001" x="1258" y="0" width="210" height="607"/>
+	<SubTexture name="WHY0002" x="1568" y="0" width="210" height="607"/>
+</TextureAtlas>

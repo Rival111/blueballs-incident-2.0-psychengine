@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GOD.png"><SubTexture name="AIDLEA0000" x="500" y="0" width="522" height="430" frameX="-123" frameY="-22" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0001" x="0" y="431" width="523" height="430" frameX="-122" frameY="-22" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0002" x="1022" y="0" width="523" height="430" frameX="-122" frameY="-22" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0003" x="0" y="861" width="510" height="429" frameX="-128" frameY="-23" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0004" x="0" y="0" width="500" height="431" frameX="-134" frameY="-21" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0005" x="1022" y="430" width="499" height="430" frameX="-134" frameY="-22" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0006" x="1010" y="861" width="499" height="424" frameX="-134" frameY="-28" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0007" x="510" y="861" width="500" height="427" frameX="-134" frameY="-25" frameWidth="766" frameHeight="468" />
+<SubTexture name="AIDLEA0008" x="523" y="431" width="499" height="427" frameX="-134" frameY="-25" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0000" x="0" y="1290" width="283" height="409" frameX="-233" frameY="-43" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0001" x="283" y="1290" width="282" height="409" frameX="-233" frameY="-43" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0002" x="565" y="1290" width="286" height="409" frameX="-231" frameY="-43" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0003" x="1407" y="1290" width="309" height="402" frameX="-211" frameY="-50" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0004" x="373" y="1699" width="358" height="388" frameX="-192" frameY="-64" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0005" x="1068" y="1699" width="389" height="374" frameX="-154" frameY="-78" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0006" x="428" y="2088" width="456" height="340" frameX="-92" frameY="-112" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0007" x="1821" y="2088" width="507" height="317" frameX="-60" frameY="-135" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0008" x="2524" y="0" width="506" height="317" frameX="-60" frameY="-135" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0009" x="0" y="2430" width="507" height="317" frameX="-60" frameY="-135" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0010" x="2524" y="0" width="506" height="317" frameX="-60" frameY="-135" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0011" x="884" y="2088" width="466" height="340" frameX="-84" frameY="-112" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0012" x="1457" y="1699" width="425" height="359" frameX="-117" frameY="-93" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0013" x="0" y="1699" width="373" height="389" frameX="-182" frameY="-63" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0014" x="1545" y="412" width="277" height="406" frameX="-236" frameY="-46" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0015" x="1545" y="818" width="275" height="404" frameX="-237" frameY="-48" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0016" x="851" y="1290" width="275" height="404" frameX="-237" frameY="-48" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0017" x="1825" y="0" width="295" height="396" frameX="-235" frameY="-56" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0018" x="731" y="1699" width="337" height="381" frameX="-231" frameY="-71" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0019" x="2120" y="0" width="404" height="353" frameX="-222" frameY="-99" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0020" x="1350" y="2088" width="471" height="337" frameX="-202" frameY="-115" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0021" x="507" y="2430" width="543" height="276" frameX="-178" frameY="-176" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0022" x="1050" y="2430" width="559" height="265" frameX="-171" frameY="-187" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0023" x="1609" y="2430" width="579" height="252" frameX="-160" frameY="-200" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0024" x="0" y="2088" width="428" height="342" frameX="-218" frameY="-110" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0025" x="1126" y="1290" width="281" height="403" frameX="-234" frameY="-49" frameWidth="766" frameHeight="468" />
+<SubTexture name="IDLESING0026" x="1545" y="0" width="280" height="412" frameX="-234" frameY="-40" frameWidth="766" frameHeight="468" />
+</TextureAtlas>

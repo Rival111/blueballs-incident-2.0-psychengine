@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FinalDerp.png"><SubTexture name="SING0000" x="0" y="0" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0001" x="960" y="0" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0002" x="0" y="540" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0003" x="960" y="540" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0004" x="0" y="1080" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0005" x="960" y="1080" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0006" x="1920" y="0" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0007" x="1920" y="540" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0008" x="1920" y="1080" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0009" x="0" y="1620" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="SING0010" x="960" y="1620" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="IDLE0000" x="1920" y="1620" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="IDLE0001" x="0" y="2160" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="IDLE0002" x="960" y="2160" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="IDLE0003" x="1920" y="2160" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="IDLE0004" x="2880" y="0" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+<SubTexture name="IDLE0005" x="2880" y="540" width="960" height="540" frameX="-2" frameY="-2" frameWidth="964" frameHeight="544" />
+</TextureAtlas>

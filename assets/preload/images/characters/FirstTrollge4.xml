@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FirstTrollge4.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FirstIDLE0000" x="100" y="100" width="1097" height="891"/>
+	<SubTexture name="FirstIDLE0001" x="1297" y="100" width="1097" height="891"/>
+	<SubTexture name="FirstIDLE0002" x="2494" y="100" width="1097" height="891"/>
+	<SubTexture name="FirstIDLE0003" x="100" y="1091" width="1097" height="891"/>
+	<SubTexture name="FirstIDLE0004" x="1297" y="1091" width="1097" height="891"/>
+	<SubTexture name="FirstIDLE0005" x="2494" y="1091" width="1097" height="891"/>
+	<SubTexture name="FirstSING0000" x="100" y="2082" width="1097" height="883"/>
+	<SubTexture name="FirstSING0001" x="1297" y="2082" width="1097" height="883"/>
+	<SubTexture name="FirstSING0002" x="2494" y="2082" width="1097" height="883"/>
+	<SubTexture name="FirstSING0003" x="100" y="3065" width="1097" height="883"/>
+	<SubTexture name="FirstSING0004" x="1297" y="3065" width="1097" height="883"/>
+	<SubTexture name="FirstSING0005" x="2494" y="3065" width="1097" height="883"/>
+</TextureAtlas>
