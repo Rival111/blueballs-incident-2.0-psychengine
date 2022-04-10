@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TvShit.png"><SubTexture name="TvShit0000" x="0" y="0" width="461" height="406" frameX="-2" frameY="-2" frameWidth="465" frameHeight="410" />
+<SubTexture name="TvShit0001" x="461" y="0" width="461" height="406" frameX="-2" frameY="-2" frameWidth="465" frameHeight="410" />
+<SubTexture name="TvShit0002" x="0" y="406" width="461" height="406" frameX="-2" frameY="-2" frameWidth="465" frameHeight="410" />
+<SubTexture name="TvShit0003" x="461" y="406" width="461" height="406" frameX="-2" frameY="-2" frameWidth="465" frameHeight="410" />
+<SubTexture name="TvShit0004" x="922" y="0" width="461" height="406" frameX="-2" frameY="-2" frameWidth="465" frameHeight="410" />
+</TextureAtlas>

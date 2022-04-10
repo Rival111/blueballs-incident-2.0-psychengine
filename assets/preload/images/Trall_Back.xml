@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Trall_Back.png"><SubTexture name="Trall_Back0000" x="0" y="0" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0001" x="541" y="0" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0002" x="1082" y="0" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0003" x="1623" y="0" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0004" x="2164" y="0" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0005" x="0" y="306" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0006" x="541" y="306" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0007" x="1082" y="306" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0008" x="1623" y="306" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0009" x="2164" y="306" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0010" x="0" y="612" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0011" x="541" y="612" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0012" x="1082" y="612" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0013" x="1623" y="612" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0014" x="2164" y="612" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0015" x="0" y="918" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0016" x="541" y="918" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0017" x="1082" y="918" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0018" x="1623" y="918" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0019" x="2164" y="918" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0020" x="0" y="1224" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0021" x="541" y="1224" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0022" x="1082" y="1224" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0023" x="1623" y="1224" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+<SubTexture name="Trall_Back0024" x="2164" y="1224" width="541" height="306" frameX="0" frameY="0" frameWidth="541" frameHeight="306" />
+</TextureAtlas>

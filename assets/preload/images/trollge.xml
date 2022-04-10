@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trollge.png">
+<SubTexture name="trollge0000" x="0" y="1136" width="258" height="497" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0001" x="258" y="1136" width="258" height="497" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0002" x="0" y="1136" width="258" height="497" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0003" x="0" y="0" width="322" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0004" x="322" y="0" width="464" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0005" x="786" y="0" width="579" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0006" x="0" y="568" width="653" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0007" x="653" y="568" width="653" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0008" x="0" y="568" width="653" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0009" x="1365" y="0" width="882" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0010" x="1365" y="568" width="882" height="568" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0011" x="516" y="1136" width="916" height="432" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0012" x="0" y="1633" width="916" height="432" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="trollge0013" x="916" y="1633" width="916" height="432" frameX="-13" frameY="-14" frameWidth="944" frameHeight="598" />
+</TextureAtlas>
