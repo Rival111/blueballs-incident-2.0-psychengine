@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-53
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TrollfaceIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TrollfaceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-69
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TrollfaceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TrollfaceDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TrollfaceUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sadsheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "troll1",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		115,
+		140
+	],
+	"camera_position": [
+		110,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

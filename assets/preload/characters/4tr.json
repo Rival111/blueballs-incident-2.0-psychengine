@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AIDLEA"
+		},
+		{
+			"offsets": [
+				140,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "IDLESING"
+		},
+		{
+			"offsets": [
+				140,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "IDLESING"
+		},
+		{
+			"offsets": [
+				140,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "IDLESING"
+		},
+		{
+			"offsets": [
+				140,
+				212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "IDLESING"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GOD",
+	"position": [
+		920,
+		620
+	],
+	"healthicon": "legion",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1090,
+		-570
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

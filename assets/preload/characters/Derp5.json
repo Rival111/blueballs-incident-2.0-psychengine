@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-115,
+				-52
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				-116,
+				-52
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SING"
+		},
+		{
+			"offsets": [
+				-117,
+				-53
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SING"
+		},
+		{
+			"offsets": [
+				-115,
+				-53
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SING"
+		},
+		{
+			"offsets": [
+				-115,
+				-53
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SING"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FinalDerp",
+	"position": [
+		-150,
+		-10
+	],
+	"healthicon": "troll6",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-800,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

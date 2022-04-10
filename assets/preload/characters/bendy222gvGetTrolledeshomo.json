@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "knuckles"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				94
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monster up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				30
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				3,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "epico",
+			"loop": false,
+			"name": "SHOOTK"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knuckles",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

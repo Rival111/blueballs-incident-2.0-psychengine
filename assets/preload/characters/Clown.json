@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-24,
+				211
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "CLOWN IDLE"
+		},
+		{
+			"offsets": [
+				73,
+				477
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CLOWN LEFT"
+		},
+		{
+			"offsets": [
+				-155,
+				125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CLOWN RIGHT"
+		},
+		{
+			"offsets": [
+				-177,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CLOWN DOWN"
+		},
+		{
+			"offsets": [
+				186,
+				651
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CLOWN UP"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-199,
+				279
+			],
+			"anim": "Front",
+			"fps": 25,
+			"name": "CLOWN FRONT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-210,
+				270
+			],
+			"anim": "hey",
+			"fps": 25,
+			"name": "CLOWN FRONT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-180,
+				280
+			],
+			"anim": "idle-start",
+			"fps": 25,
+			"name": "CLOWN START",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-180,
+				272
+			],
+			"anim": "Front3",
+			"fps": 25,
+			"name": "CLOWN FRONT3",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CLOWN",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "clown",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		100,
+		120
+	],
+	"camera_position": [
+		-100,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

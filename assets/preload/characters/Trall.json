@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TrallNotFront",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				404,
+				-218
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				-260
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-203
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+				},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-150
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "TrallFront",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-101,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "tralll",
+			"loop": false,
+			"name": "TrallFront"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/stupidman",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "trall",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
